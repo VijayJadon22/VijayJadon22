@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a Full Stack Web Developer passionate about bu
 
 Feel free to explore my repositories and reach out if you’d like to collaborate or chat about tech!
 
-Happy coding! 🚀
 
 <!---
 VijayJadon22/VijayJadon22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
