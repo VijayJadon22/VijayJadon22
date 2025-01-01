@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a Full Stack Web Developer passionate about bu
 
 - #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=VijayJadon22&show_icons=true&theme=light" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VijayJadon22&theme=dark" width="48%" >
 
 Feel free to explore my repositories and reach out if you’d like to collaborate or chat about tech!
 
