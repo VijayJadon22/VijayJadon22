@@ -9,6 +9,9 @@ Welcome to my GitHub profile! I'm a Full Stack Web Developer passionate about bu
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I enjoy exploring new technologies and am always eager to take on new opportunities and challenges.
 
+- #### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username={VijayJadon22}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
 Feel free to explore my repositories and reach out if you’d like to collaborate or chat about tech!
 
 
