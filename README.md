@@ -3,11 +3,11 @@
 Welcome to my GitHub profile! I'm a Full Stack Web Developer passionate about building and delivering high-quality projects. Here's a bit more about me:
 # 💫 About Me:
 - 👀 **I’m interested in:** Learning new technologies, building impactful projects, and continuously improving my skills.
-- 🌱 **I’m currently learning:** React and working full fledged projects using react.
+- 🌱 **I’m currently learning:** React and working on full fledged projects using react.
 - 💞️ **I’m looking to collaborate on:** Exciting projects where I can contribute and grow my web development skills, especially those involving modern web technologies and full-stack development.
 - 📫 **How to reach me:** You can contact me via email at vijaypratapsinghjadon22@gmail.com or connect with me on Linkedin.
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I enjoy exploring new technologies and am always eager to take on new opportunities and challenges.
+- ⚡ **Fun fact:** I enjoy being an all-rounder, excelling in both curricular and extra-curricular activities.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_vijay_jadon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijayjadon22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijaypratapsinghjadon22@gmail.com) 
