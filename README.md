@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Full Stack Web Developer passionate about building and delivering high-quality projects. Here's a bit more about me:
 # 💫 About Me:
 - 👀 **I’m interested in:** Learning new technologies, building impactful projects, and continuously improving my skills.
-- 🌱 **I’m currently learning:** React and working on full fledged projects using react.
+- 🌱 **I’m currently learning:** Next.js and working on full fledged projects using Next.js.
 - 💞️ **I’m looking to collaborate on:** Exciting projects where I can contribute and grow my web development skills, especially those involving modern web technologies and full-stack development.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I enjoy being an all-rounder, excelling in both curricular and extra-curricular activities.
